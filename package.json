@@ -1,0 +1,37 @@
+{
+  "name": "@vlodia/nsfw",
+  "version": "0.0.1",
+  "description": "A simple nsfw module with 37 Categories constantly updated nsfw content.",
+  "main": "dist",
+  "types": "types/index.d.ts",
+  "repository": "git+https://github.com/takachidot/vlodia-nsfw.git",
+  "keywords": [
+    "Takachi",
+    "Yahya",
+    "vlodia",
+    "nsfw",
+    "nsfw-image",
+    "porn",
+    "+18"
+  ],
+  "author": {
+    "email": "yahyabey2401@proton.me",
+    "name": "Yahya"
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/takachidot/vlodia-nsfw/issues"
+  },
+  "homepage": "https://github.com/takachidot/vlodia-nsfw#readme",
+  "private": false,
+  "dependencies": {
+    "axios": "^1.5.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.9",
+    "typescript": "^5.5.2"
+  }
+}
